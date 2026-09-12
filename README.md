@@ -7,7 +7,7 @@ Phishing websites are malicious websites designed to steal sensitive information
 
 This project uses Machine Learning to classify URLs as Phishing or Legitimate based on URL and website-related features.
 
-🎯 Objective
+🎯 Objective  
 
 The main objective of this project is to build a machine learning classification model that can identify potentially phishing websites.
 
