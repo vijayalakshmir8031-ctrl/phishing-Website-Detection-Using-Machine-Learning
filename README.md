@@ -11,7 +11,7 @@ This project uses Machine Learning to classify URLs as Phishing or Legitimate ba
 
 The main objective of this project is to build a machine learning classification model that can identify potentially phishing websites.
 
-📊 Dataset
+📊 Dataset  
 
 This project uses the PhiUSIIL Phishing URL Dataset from the UCI Machine Learning Repository.
 
