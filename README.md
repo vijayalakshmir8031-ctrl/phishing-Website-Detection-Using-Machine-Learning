@@ -98,7 +98,7 @@ python src/phishing_detection.py
 - Allow users to enter a URL and get a prediction
 - Deploy the application online
 
-👩‍💻 Author
+👩‍💻 Author 
 
 Vijayalakshmi
 
